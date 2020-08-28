@@ -3,6 +3,18 @@ Comparison of Supervised Learning Alogrithms in Binary Classification Tasks. The
 
 Corresponding paper is available [here](https://uploads-ssl.webflow.com/5dd39100740f6100087d93a4/5e75c9f19105fafd22dcf3b1_COGS118A_Final_Paper%20(1).pdf).
 
+├───Data
+│   ├───bci
+│   ├───covtype
+│   └───SPECT
+├───Models
+│   └───bci_models.ipynb
+│   ├───covtype_models.ipynb
+│   └───heart_models.ipynb
+├───py
+│   ├───my_functions.py
+└───Results
+
 **Contents** :
 
 
