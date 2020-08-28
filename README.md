@@ -1,5 +1,5 @@
 # Emperical Comparison on Supervised Learning Algorithms
-Comparison of Supervised Learning Alogrithms in Binary Classification Tasks. The purpose of this project was purely educational. It proved to be extremely useful, as I was allowed to gain an understanding on working optimally across different datasets/models/partitions with a certain pipleline in mind. 
+Comparison of Supervised Learning Alogrithms in Binary Classification Tasks. The purpose of this project was purely educational. It proved to be extremely useful, as I learnt of the ins and outs of different models. My biggest take away is the idea that no one model is best. When switching from one model to the other, regardless of the domain, it is a give-and-take type situation. 
 
 Corresponding paper is available [here](https://uploads-ssl.webflow.com/5dd39100740f6100087d93a4/5e75c9f19105fafd22dcf3b1_COGS118A_Final_Paper%20(1).pdf).
 
